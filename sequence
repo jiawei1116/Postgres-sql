@@ -1,0 +1,1 @@
+select nextval('fw_account_user_seq');
